@@ -9,5 +9,5 @@ the whole semester. Currently other than being a student, I work as an IT Consul
 devices, and monitoring for security threats.
 
  Working closely with Azure and M365 has particularly sparked my interest in how web-based systems function, which led me to take this course in web programming. I am excited about how this web programming course
- will help expand my skills in web technologies, but more importantly help me learn and expand my knowledge of web-based technologies. I don't currently have a plan for what I will do with these skills, but
+ will help improve my skills, but more importantly help me learn and expand my knowledge of web-based technologies. I don't currently have a plan for what I will do with these skills, but
  I'm sure that they will come in handy eventually.
