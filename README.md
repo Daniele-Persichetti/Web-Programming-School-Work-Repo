@@ -1,4 +1,5 @@
-![IMG-20230210-WA0028](https://github.com/user-attachments/assets/1a464d65-d20b-4c8c-841b-33497b765bc7 =250x250)
+![IMG-20230210-WA0028 (1)](https://github.com/user-attachments/assets/236586e0-2650-4034-ba2e-270456fee2ff)
+
 
 ABOUT ME:
 Hi! I'm Daniele Persichetti, currently a senior student at SUNY New Paltz pursuing a course in web programming. 
