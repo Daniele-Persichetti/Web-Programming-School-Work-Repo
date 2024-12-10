@@ -14,11 +14,15 @@ export default defineConfig({
     }),
     vue(),
     vueJsx(),
-    vueDevTools(),
+    vueDevTools()
   ],
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
+  },
+  base: './',
+  build: {
+    outDir: '../Server/dist'
   }
 })

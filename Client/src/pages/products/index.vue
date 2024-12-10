@@ -4,7 +4,7 @@ import { getAll, type Product } from '@/models/products'
 import ProductCard from '@/components/ProductCard.vue'
 
 const products = ref<Product[]>([])
-products.value = getAll().data
+getAll().then((data) => (products.value = data.data))
 </script>
 
 <template>
@@ -22,6 +22,7 @@ products.value = getAll().data
 }
 
 .shelf .box {
-  width: 300px;
+  width: 17rem;
+  flex-grow: 1;
 }
 </style>
